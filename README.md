@@ -16,21 +16,8 @@ This Python project analyzes web server logs and extracts key insights such as I
     - `csv` (for CSV handling)
     - `re` (for regular expressions)
 
-## Setup
 
-1. Clone the repository:
-git clone https://github.com/yourusername/log-analysis.git
-
-markdown
-Copy code
-
-2. Install the required Python packages:
-pip install pandas
-
-bash
-Copy code
-
-3. Place your log file (`sample.log`) in the project folder.
+Place your log file (`sample.log`) in the project folder.
 
 ## Usage
 
